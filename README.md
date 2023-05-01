@@ -1,6 +1,6 @@
 This is for the Launchpad by Vog Frontend Coding Challenge. 
 
-#JavaScript Question
+##JavaScript Question
 To run the JavaScript question:
 
 You can run it using node:
@@ -17,10 +17,10 @@ Alternatively run it using a browser:
 3. Copy the code from javascriptQuestion.js and paste it into the console.
 4. The results should log there.
 
-#CSS Question
+##CSS Question
 1.To view styles on the index.html file, simply open it in any modern browser.
 
-#React Question
+##React Question
 To run the React App:
 1. Use the terminal and navigate to .\React Question\react-question
 2. Use the command npm start

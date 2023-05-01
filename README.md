@@ -1,2 +1,1 @@
-# READ ME
-This if for the Launchpad by Vog Frontend Coding Challenge.
+This is for the Launchpad by Vog Frontend Coding Challenge.

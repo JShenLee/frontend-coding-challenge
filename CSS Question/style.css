@@ -1,0 +1,39 @@
+
+html {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+body {
+
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.wrapper {
+    
+    /* width: 100%; //Causes weird cutoff when enabled. Wrapper has full page width regardless.*/
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: lightblue;
+    height: 100px;
+
+}
+
+.div1 {
+    text-align: center;
+    height: auto;
+    width: 50px;
+    background-color: lightgoldenrodyellow;
+}
+
+.div2 {
+    text-align: center;
+    height: auto;
+    width: 100px;
+    background-color: lightpink;
+}
+
+.divName {
+    font-weight: bold;
+}

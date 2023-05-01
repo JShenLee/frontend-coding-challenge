@@ -1,6 +1,6 @@
 This is for the Launchpad by Vog Frontend Coding Challenge. 
 
-##JavaScript Question
+JavaScript Question
 To run the JavaScript question:
 
 You can run it using node:

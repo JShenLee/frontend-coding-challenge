@@ -10,9 +10,6 @@ You can run it using node:
 2. Use the command  node javascriptQuestion.js 
 3. The results should log to the terminal:
 
-//Bill Baggins is 111 years old.
-//Susan Sommers is 52 years old.
-//Teddy Turner is 35 years old.
 
 Alternatively run it using a browser:
 
